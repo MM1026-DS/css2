@@ -166,11 +166,11 @@ blockquote {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #7FFFD4; 
+  color: #A52A2A; 
   text-decoration: underline;
   cursor: pointer;}
 a:hover {
-  color: #5F9EA0; }
+  color: #A52A2A; }
 
 
 /* Buttons
